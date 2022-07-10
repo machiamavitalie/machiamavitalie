@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vitalie</h1>
 <h3 align="center">web designer & python developer</h3>
 
-- 👨‍💻 All of my projects are available at [machiamadev.cadreconsultmd.com](machiamadev.cadreconsultmd.com)
+- 👨‍💻 All of my projects are available at [http://machiamadev.cadreconsultmd.com](http://machiamadev.cadreconsultmd.com)
 
 - 📫 How to reach me **machiamavitalie@gmail.com**
 
