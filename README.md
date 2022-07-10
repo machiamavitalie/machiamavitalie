@@ -4,7 +4,7 @@
 ### <div align="center">I'm Vitalie, web designer & python developer since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+<!-- - 🔭 I’m currently working on []()  -->
   
 
 - 🌱 I’m currently learning JavaScript  
