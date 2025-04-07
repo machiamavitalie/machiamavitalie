@@ -1,13 +1,13 @@
 
   
 
-### <div align="center">I'm Vitalie, web designer & python developer since 2020 🚀</div>  
+### <div align="center"></div>  
   
 
 <!-- - 🔭 I’m currently working on []()  -->
   
 
-- 🌱 I’m currently learning JavaScript  
+<!-- - 🌱 I’m currently learning JavaScript  -->
   
 
 <br/>  
